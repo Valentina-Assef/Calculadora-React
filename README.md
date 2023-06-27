@@ -1,2 +1,4 @@
-# Calculadora-React
-Calculadora desarrollada con React.js
+# Calculadora 
+### Desarrollado con React.js
+
+![](./calculadora/src/imagenes/screenshot.png)
